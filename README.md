@@ -37,7 +37,7 @@ ps：需要说明一点就是无论是phpmyadmin也好还是Navicat for MySQL也
 
 (1)php创建数据库【连接】  
 语法：Object mysqli_connect("域名","DB账号","DB密码","DB库名")  
-例子：$con = mysqli_connect("localhost","root","","lix");  
+例子：$con = mysqli_connect("localhost","root","","lixdb");  
 
 (2)向DB中插入数据时包含中文出现乱码的解决方案  
 语法：mysqli_qurey($con,"set names utf8");  
