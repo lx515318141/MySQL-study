@@ -19,8 +19,8 @@ MySQL因为其速度、可靠性和适应性而备受关注。大多数人都认
 
 ## 2.MySQL数据库的可视化工具
 
-(1)phpmyadmin
-(2)Navicat for MySQL
+(1)phpmyadmin  
+(2)Navicat for MySQL  
 
 ## 3.可视化工具的【增删改查】操作
 
@@ -31,7 +31,7 @@ MySQL因为其速度、可靠性和适应性而备受关注。大多数人都认
 (2)Navicat for MySQL:  
     下载、安装、破解、链接  
 
-ps：需要说明一点就是无论是phpmyadmin也好还是Navicat for MySQL也好，两者都谨慎一个对于数据库操作和管理的工具，他们并不是数据库本身。
+ps：需要说明一点就是无论是phpmyadmin也好还是Navicat for MySQL也好，两者都仅是一个对于数据库操作和管理的工具，他们并不是数据库本身。
 
 ## 4.php连接数据库与基本操作配置
 
@@ -55,11 +55,11 @@ ps：需要说明一点就是无论是phpmyadmin也好还是Navicat for MySQL也
 
 操作数据库的基本步骤大多相同，只不过是sql语句结构的区别。不同的sql语句能够完成不同的功能，因此学习如何操作数据库实际上就是在学习如何编写sql语句。  
 
-(1)使用sql语句基本【模板】
-(2)sql查询语句
-(3)sql插入语句
-(4)sql修改语句
-(5)sql删除语句
+(1)使用sql语句基本【模板】  
+(2)sql查询语句  
+(3)sql插入语句  
+(4)sql修改语句  
+(5)sql删除语句  
 
 ### (1).使用sql语句基本【模板】
 
